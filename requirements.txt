@@ -1,4 +1,6 @@
 pandas
 numpy
 seaborn
+tensorflow==2.7.0
+protobuf==3.20.1
 -e.
